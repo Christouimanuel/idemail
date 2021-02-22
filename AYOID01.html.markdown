@@ -62,7 +62,7 @@
             </tr>
             <tr>
             <td align="center" valign="center" width="100%" bgcolor="#FEF4DA">
-                <align="center" valign="center" width="100%"><img size="100%" src="https://aseanyouth.net/wp-content/uploads/2021/02/Final-Design-TrashTalk.jpg">
+                <align="center" valign="center" width="100%"><img size="100%" src="https://aseanyouth.net/wp-content/uploads/2021/02/Artboard-2-3-wecompress.com_-1-e1613988161480.png">
               </td>
             </tr>
             <tr>
@@ -72,7 +72,7 @@
               </td>
             </tr>
             <td align="center" valign="center" width="400px" bgcolor="#FEF4DA">
-                <span style="font-size:32px" valign="justify"><a href="https://aseanyouth.net/project/trashtalk/">DAFTAR SEKARANG</a></span>
+                <span style="font-size:32px" valign="justify"><a href="https://aseanyouth.net/update/ayo-indonesia-webinar-1/">DAFTAR SEKARANG</a></span>
               </td>
             </tr>
             </tr>
